@@ -1,6 +1,8 @@
-streamlit==1.24.1
 pandas
 numpy
-plotly
+streamlit
 openpyxl
-xlsxwriter
+matplotlib
+plotly
+seaborn
+scikit-learn
